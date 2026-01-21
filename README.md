@@ -8,3 +8,4 @@
 <h1>Simple JavaScript Project</h1>
 <p id="count">0</p>
 <button onclick="increase()">Click Me</button>
+<script>

@@ -12,3 +12,4 @@
 let c = 0;
 function increase(){
 c = c + 1;
+document.getElementById("count").innerText = c;

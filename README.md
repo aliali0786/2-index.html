@@ -17,3 +17,4 @@ document.getElementById("count").innerText = c;
 </script>
 <p>Project by Rashid</p>
 </body>
+</html>

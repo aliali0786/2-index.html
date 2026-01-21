@@ -2,3 +2,4 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>Click Counter Project</title>

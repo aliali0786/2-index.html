@@ -3,3 +3,4 @@
 <html>
 <head>
 <title>Click Counter Project</title>
+</head>

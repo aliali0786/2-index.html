@@ -10,3 +10,4 @@
 <button onclick="increase()">Click Me</button>
 <script>
 let c = 0;
+function increase(){
